@@ -1,1 +1,3 @@
 Type a sentence inside and save it to the local folder that you're using for your Git repository.
+
+And then, he made another change...
